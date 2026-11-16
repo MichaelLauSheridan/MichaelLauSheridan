@@ -19,7 +19,9 @@ Financial resilience engine built on real anonymized bank data (4,500 accounts).
 
 **Key finding:** the more customers earned, the fewer months they could survive. The top-earning fifth kept 1.8 months of spending in the bank versus 8.9 for the lowest-earning fifth, and under the real 2026 EI cap, 99% of top earners couldn't last 6 months.
 
-**Focus:** data analysis with Python and Pandas, a Next.js/TypeScript simulation engine verified against a Python reference on 36,000 test cases, data provenance for every metric, and pitching live to judges.
+**Stack:** PostgreSQL (Tiger Data) · Python/Pandas · Next.js · React · TypeScript · Gemini API · Railway
+
+**Focus:** loading 1.06M bank transactions into PostgreSQL and computing the judges' metrics in SQL, serving them through Next.js API routes, verifying the SQL against the TypeScript engine on 36,000 test cases, using an LLM only for wording (every number comes from the engine), and pitching live to judges.
 
 ---
 
