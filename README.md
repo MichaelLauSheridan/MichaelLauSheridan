@@ -11,6 +11,18 @@ I'm a Computer Science student specializing in Data Analytics at Sheridan Colleg
 
 ## Featured Projects
 
+### 🏆 [When Life Gives You Tangerines](https://github.com/minhlongvu2004/When-Life-Gives-You-Tangerines/tree/dev-long-theme-fit)
+
+**Winner, "Resilience Rewired" (Tangerine Track), Sheridan Datathon 2026** · 30 teams, ~275 participants · Team of 4, Lead Presenter · [Devpost](https://devpost.com/software/when-life-gives-you-tangerines)
+
+Financial resilience engine built on real anonymized bank data (4,500 accounts). Pick any customer to see their income, costs, savings buffer and months of runway, hit them with a shock (job loss with EI, rent increase, surprise repair, or a plain-English "twist card"), and get an emergency-fund plan and backup plan built from their own numbers.
+
+**Key finding:** the more customers earned, the fewer months they could survive. The top-earning fifth kept 1.8 months of spending in the bank versus 8.9 for the lowest-earning fifth, and under the real 2026 EI cap, 99% of top earners couldn't last 6 months.
+
+**Focus:** data analysis with Python and Pandas, a Next.js/TypeScript simulation engine verified against a Python reference on 36,000 test cases, data provenance for every metric, and pitching live to judges.
+
+---
+
 ### [Blog API Platform](https://github.com/MichaelLauSheridan/BlogAPI)
 
 RESTful blog API built with ASP.NET Core, Entity Framework Core, SQLite, and layered architecture.
